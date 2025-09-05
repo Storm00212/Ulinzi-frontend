@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ulinzi: AI Safety Companion",
+  "description": "An AI-powered safety and support application designed to protect individuals in high-risk situations. It features an emergency SOS, AI-powered danger detection, a bilingual AI chatbot for legal and mental health support, and a trusted contacts network.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
